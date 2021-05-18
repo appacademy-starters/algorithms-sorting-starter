@@ -10,7 +10,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.3.4",
     "mocha": "^8.2.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D3vila/algorithms-sorting-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/D3vila/algorithms-sorting-starter/issues"
+  },
+  "homepage": "https://github.com/D3vila/algorithms-sorting-starter#readme"
 }
